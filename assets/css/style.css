@@ -1,0 +1,43 @@
+html { 
+    background: url(../images/speed.png) no-repeat center fixed; 
+    background-size: cover;
+
+}
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.popQuiz {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.button {
+    width: 100%;
+}
+
+p {
+    text-decoration: underline;
+
+
+
+}
+
+.question {
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+form {
+    text-align: center;
+}
+
